@@ -3,7 +3,7 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 [![pexels-pixabay-265087.jpg](https://i.postimg.cc/QVLysCnR/pexels-pixabay-265087.jpg)](https://postimg.cc/XB88kjW8)
 
-#### Tecnologías utilizadas : Python 3.11 - Jupyter Lab (IDE) - Librerías: pandas, numpy, scikit-learn, matplotlib y seaborn.
+#### Tecnologías utilizadas : Python 3.11 - Jupyter Lab (IDE) para pruebas - VSCode (IDE) para estructurar los algoritmos - Librerías: pandas, numpy, scikit-learn, matplotlib y seaborn.
 
 **Mean Variance**
 
