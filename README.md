@@ -17,9 +17,9 @@ organizados por categoría estadística."
 **Demographic Analyzer**
 
 para la función `calculate_demographic_data` en el archivo `demographic_data_analyzer.py`:
-"La función `calculate_demographic_data` procesa datos demográficos contenidos en un archivo CSV y calcula diversas estadísticas demográficas, 
+La función `calculate_demographic_data` procesa datos demográficos contenidos en un archivo CSV y calcula diversas estadísticas demográficas, 
 como el recuento de razas representadas, la edad promedio de los hombres, el porcentaje de personas con títulos universitarios, y 
-el porcentaje de personas que ganan más de 50 mil dólares al año, entre otras. Utiliza la biblioteca Pandas para la manipulación y análisis de datos tabulares en Python."
+el porcentaje de personas que ganan más de 50 mil dólares al año, entre otras. Utiliza la biblioteca Pandas para la manipulación y análisis de datos tabulares en Python.
 
 **Medical_Data_Analyzer**
 
