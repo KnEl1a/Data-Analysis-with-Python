@@ -12,7 +12,7 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 para la función `calculate` en el archivo `mean_var_std.py`:
 La función `calculate` realiza cálculos estadísticos básicos sobre una lista de nueve números proporcionada. Utiliza la biblioteca NumPy para calcular la media,
 la varianza, la desviación estándar, el máximo, el mínimo y la suma de los números en la lista. La función devuelve un diccionario que contiene estos resultados, 
-organizados por categoría estadística."
+organizados por categoría estadística.
 
 **Demographic Analyzer**
 
@@ -46,8 +46,7 @@ Durante este proceso de análisis de datos y visualización, he tenido la oportu
 Desde el cálculo de estadísticas básicas hasta la exploración de correlaciones y tendencias temporales, cada proyecto ha contribuido significativamente a mi comprensión y experiencia en el campo del 
 análisis de datos utilizando Python.
 
-A través de la certificación en el BootCamp de programación de FreeCodeCamp, he consolidado mis habilidades en el uso de librerías clave como pandas, numpy, scikit-learn, matplotlib y seaborn, lo que 
-me ha permitido abordar con éxito desafíos complejos de análisis y visualización de datos.
+A través de la certificación en el BootCamp de programación de FreeCodeCamp, he consolidado mis habilidades en el uso de librerías clave como pandas, numpy, scikit-learn, matplotlib y seaborn.
 
 Desde el cálculo de la media, varianza y desviación estándar en el proyecto Mean Variance, hasta el análisis demográfico detallado en Demographic Analyzer, y la exploración de la correlación y 
 distribución en Medical Data Analyzer y Page-View, cada proyecto ha sido una oportunidad invaluable para aplicar y mejorar mis habilidades técnicas y mi comprensión de los conceptos fundamentales 
