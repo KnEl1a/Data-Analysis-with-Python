@@ -1,5 +1,5 @@
 # Análisis de datos
-Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/scientific-computing-with-python-v7)
+Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/data-analysis-with-python-v7)
 
 [![pexels-pixabay-265087.jpg](https://i.postimg.cc/QVLysCnR/pexels-pixabay-265087.jpg)](https://postimg.cc/XB88kjW8)
 
