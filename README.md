@@ -9,27 +9,27 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 ### Descripcion de Proyectos :
 
-####### **Sea Level Predictor**
+#### **Sea Level Predictor**
 
 El código carga datos históricos de niveles del mar desde un archivo CSV, realiza dos regresiones lineales para mostrar las tendencias desde 1880 y desde 2000 respectivamente, crea un gráfico de dispersión con líneas de mejor ajuste y guarda el gráfico como "sea_level_plot.png". Es útil para analizar y visualizar cómo han cambiado los niveles del mar a lo largo del tiempo.
 ![SeaLevel](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/Lineal%20Regresion%20Sea%20level%20predictor/sea_level_plot.png)
 
 
-####### **Mean Variance**
+#### **Mean Variance**
 
 para la función `calculate` en el archivo `mean_var_std.py`:
 La función `calculate` realiza cálculos estadísticos básicos sobre una lista de nueve números proporcionada. Utiliza la biblioteca NumPy para calcular la media,
 la varianza, la desviación estándar, el máximo, el mínimo y la suma de los números en la lista. La función devuelve un diccionario que contiene estos resultados, 
 organizados por categoría estadística.
 
-####### **Demographic Analyzer**
+#### **Demographic Analyzer**
 
 para la función `calculate_demographic_data` en el archivo `demographic_data_analyzer.py`:
 La función `calculate_demographic_data` procesa datos demográficos contenidos en un archivo CSV y calcula diversas estadísticas demográficas, 
 como el recuento de razas representadas, la edad promedio de los hombres, el porcentaje de personas con títulos universitarios, y 
 el porcentaje de personas que ganan más de 50 mil dólares al año, entre otras. Utiliza la biblioteca Pandas para la manipulación y análisis de datos tabulares en Python.
 
-####### **Medical_Data_Analyzer**
+#### **Medical_Data_Analyzer**
 
 para las funciones `draw_cat_plot` y `draw_heat_map` en el archivo `medical_data_visualizer.py`:
 `draw_cat_plot`: Esta función utiliza la biblioteca Seaborn para crear un gráfico de barras categórico que muestra la distribución de diversas características, como colesterol, glucosa, hábitos de fumar, consumo de alcohol, actividad física y sobrepeso, dividido por la presencia o ausencia de enfermedades cardiovasculares. La función guarda el gráfico generado en un archivo llamado 'catplot.png'.
@@ -40,7 +40,7 @@ para las funciones `draw_cat_plot` y `draw_heat_map` en el archivo `medical_data
 
 ![heatMap](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/medical-data/heatmap.png)
 
-####### **Page-View**
+#### **Page-View**
 
 para las funciones `draw_line_plot`, `draw_bar_plot` y `draw_box_plot` en el archivo `time_series_visualizer.py`:
 
