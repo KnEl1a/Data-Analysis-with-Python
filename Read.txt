@@ -1,1 +1,0 @@
-ejecute main.py en cada carpeta para ejecutar el algoritmo
