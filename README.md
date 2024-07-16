@@ -46,8 +46,11 @@ para las funciones `draw_line_plot`, `draw_bar_plot` y `draw_box_plot` en el arc
 
 `draw_bar_plot`: Esta función utiliza Matplotlib y Pandas para crear un gráfico de barras que muestra el promedio mensual de las vistas de página del foro de freeCodeCamp a lo largo de varios años. El gráfico de barras proporciona una visualización de la cantidad promedio de vistas de página para cada mes a lo largo del tiempo. La función guarda el gráfico generado en un archivo llamado 'bar_plot.png'.
 
+![barPlot](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/Page-view-time-series-visualizer/bar_plot.png)
+
 `draw_box_plot`: Esta función utiliza Seaborn y Pandas para crear dos diagramas de caja que muestran la distribución de las vistas de página del foro de freeCodeCamp en función del año y del mes. Los diagramas de caja proporcionan información sobre la tendencia y la estacionalidad de las vistas de página a lo largo del tiempo. La función guarda los diagramas de caja generados en un archivo llamado 'box_plot.png'.
 
+![boxPlot](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/Page-view-time-series-visualizer/box_plot.png)
 
 ##### Conclusión Final
 
