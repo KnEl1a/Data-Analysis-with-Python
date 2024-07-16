@@ -9,6 +9,9 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 ### Descripcion de Proyectos :
 
+** Sea Level Predictor**
+El código carga datos históricos de niveles del mar desde un archivo CSV, realiza dos regresiones lineales para mostrar las tendencias desde 1880 y desde 2000 respectivamente, crea un gráfico de dispersión con líneas de mejor ajuste y guarda el gráfico como "sea_level_plot.png". Es útil para analizar y visualizar cómo han cambiado los niveles del mar a lo largo del tiempo.
+
 **Mean Variance**
 
 para la función `calculate` en el archivo `mean_var_std.py`:
