@@ -33,8 +33,11 @@ el porcentaje de personas que ganan más de 50 mil dólares al año, entre otras
 para las funciones `draw_cat_plot` y `draw_heat_map` en el archivo `medical_data_visualizer.py`:
 `draw_cat_plot`: Esta función utiliza la biblioteca Seaborn para crear un gráfico de barras categórico que muestra la distribución de diversas características, como colesterol, glucosa, hábitos de fumar, consumo de alcohol, actividad física y sobrepeso, dividido por la presencia o ausencia de enfermedades cardiovasculares. La función guarda el gráfico generado en un archivo llamado 'catplot.png'.
 
+![catPlot](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/medical-data/catplot.png)
+
 `draw_heat_map`: Esta función utiliza Seaborn para generar un mapa de calor que muestra la correlación entre diversas características médicas. El mapa de calor representa visualmente las relaciones entre las variables, ayudando a identificar patrones y asociaciones en los datos. La función guarda el mapa de calor generado en un archivo llamado 'heatmap.png'.
 
+![heatMap](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/medical-data/heatmap.png)
 
 **Page-View**
 
