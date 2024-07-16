@@ -9,8 +9,10 @@ Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecod
 
 ### Descripcion de Proyectos :
 
-** Sea Level Predictor**
+**Sea Level Predictor**
 El código carga datos históricos de niveles del mar desde un archivo CSV, realiza dos regresiones lineales para mostrar las tendencias desde 1880 y desde 2000 respectivamente, crea un gráfico de dispersión con líneas de mejor ajuste y guarda el gráfico como "sea_level_plot.png". Es útil para analizar y visualizar cómo han cambiado los niveles del mar a lo largo del tiempo.
+![SeaLevel](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/Lineal%20Regresion%20Sea%20level%20predictor/sea_level_plot.png)
+
 
 **Mean Variance**
 
@@ -39,6 +41,8 @@ para las funciones `draw_cat_plot` y `draw_heat_map` en el archivo `medical_data
 para las funciones `draw_line_plot`, `draw_bar_plot` y `draw_box_plot` en el archivo `time_series_visualizer.py`:
 
 `draw_line_plot`: Esta función utiliza Matplotlib para crear un gráfico de línea que muestra la cantidad diaria de vistas de la página del foro de freeCodeCamp durante un período de tiempo específico. El gráfico representa la tendencia temporal de las vistas de página a lo largo del tiempo. La función guarda el gráfico generado en un archivo llamado 'line_plot.png'.
+
+![Lineplot](https://github.com/KnEl1a/Data-Analysis-with-Python/blob/main/Page-view-time-series-visualizer/line_plot.png)
 
 `draw_bar_plot`: Esta función utiliza Matplotlib y Pandas para crear un gráfico de barras que muestra el promedio mensual de las vistas de página del foro de freeCodeCamp a lo largo de varios años. El gráfico de barras proporciona una visualización de la cantidad promedio de vistas de página para cada mes a lo largo del tiempo. La función guarda el gráfico generado en un archivo llamado 'bar_plot.png'.
 
